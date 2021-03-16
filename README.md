@@ -1,4 +1,7 @@
 # Pitchfork Bias Analysis
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Pitchfork_Media_Logo.svg/1280px-Pitchfork_Media_Logo.svg.png)
+
 ## Table of Contents
 1. Installation
 2. Project Motivation

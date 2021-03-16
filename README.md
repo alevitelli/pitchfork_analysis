@@ -1,6 +1,6 @@
 # Pitchfork Bias Analysis
 
-![alt text](https://factmag-images.s3.amazonaws.com/wp-content/uploads/2015/10/Pitchfork_Media_logo.jpg)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/archive/7/76/20210301063615%21Pitchfork_logo.svg)
 
 ## Table of Contents
 1. Installation

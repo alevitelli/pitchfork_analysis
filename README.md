@@ -9,7 +9,7 @@
 ##Installation
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
 
-The data is from Kaggle and can be found at (this link). [https://www.kaggle.com/nolanbconaway/pitchfork-data] 
+The data is from Kaggle and can be found at [this link] [https://www.kaggle.com/nolanbconaway/pitchfork-data]
 
 #Project Motivation
 For this project, I was interested in understanding whether, analysing Pitchfork reviews data from 1999 to 2016, we could see signs of any potential implicit bias in terms of preferred genres. 
@@ -23,7 +23,7 @@ The questions I asked myself during the analysis were:
 This repo hosts the Jupyter notebook on which I prepared the data and did some exploratory analysis. 
 
 #Results
-The main findings of the code can be found at the post available (here) [https://medium.com/@alessandro.vitelli78/are-pitchfork-reviews-biased-be28c74e3de6]
+The main findings of the code can be found at the post available [here] [https://medium.com/@alessandro.vitelli78/are-pitchfork-reviews-biased-be28c74e3de6]
 
 #Licensing, Authors, Acknowledgements
-Must give credit to Pitchfork and Kaggle for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available (here) [https://www.kaggle.com/nolanbconaway/pitchfork-data]. 
+Must give credit to Pitchfork and Kaggle for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here][https://www.kaggle.com/nolanbconaway/pitchfork-data]. 
